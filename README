@@ -2,6 +2,9 @@ Author
     dommy <shonan.shachu at gmail.com>
     @shonanshachu
 
+Target
+    Android 2.1 or over
+
 Description
     Activity transaction animation sample.
     Flip to move next activity or back.
